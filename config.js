@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Ỏ 🥰, Yêu m vãi cả đái 😘😘',
     messDesc: 'Tối nay 10h, mình chơi liên quân chung típp haa :>.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/Anhlee/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://github.com/Anhle1712/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
